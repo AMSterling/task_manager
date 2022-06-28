@@ -8,7 +8,7 @@ Things you may want to cover:
 * Ruby version
   2.7.4
 * System dependencies
-  RAILS 2.5.X
+  Rails 2.5.X
 * Configuration
   
 * Database creation
